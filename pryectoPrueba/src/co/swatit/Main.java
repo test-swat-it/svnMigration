@@ -1,6 +1,6 @@
 package co.swatit;
 
-/*Documentation*/
+/*Documentacion de la clase*/
 public class Main {
 
 }
