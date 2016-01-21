@@ -5,4 +5,7 @@ package co.swatit;
  * */
 public class Test {
 
+    public Test(){
+  
+    }
 }
